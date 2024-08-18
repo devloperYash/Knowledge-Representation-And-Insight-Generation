@@ -86,9 +86,9 @@ This project focuses on developing an AI-based solution for knowledge representa
 
 ## **About the Team**:
 ### Team Name : *Codecrafters*
-### Team Lead:
-  1. [Pranav Rajput](https://github.com/24-Pranav)
+
 ### Team Members:
+  1. [Pranav Rajput](https://github.com/24-Pranav)
   2. [Yash Lawankar](https://github.com/devloperYash)
   3. [Yash Dighade](https://github.com/Hitman45-web)
 
